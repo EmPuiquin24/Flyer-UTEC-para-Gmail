@@ -1,5 +1,5 @@
  # Flyer de UTEC para Gmail
-Código de html que simula a los flyers de la UTEC con el fin de enviarlo por g-mail.
+Código de html que simula a los flyers de la UTEC con el fin de enviarlo por Gmail.
 
 Este flyer consta de:
 - Cabecera para dos logos (izquierdo y derecho)
