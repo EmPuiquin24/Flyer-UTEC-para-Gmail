@@ -19,8 +19,11 @@ Debido a que Gmail soporta html, aquí están los pasos para que lo interprete:
 3. Ir a Gmail, presionar el botón de redactar y pegar en el cuerpo del correo lo que acabas de copiar. 
 4. Gmail debería de rendizarlo y listo. Solo bastaría incluir el destinatario al que quieres enviar el correo y colocar un asunto
 
+![Este es un posible ejemplo del flyer ya modificado](ejemplo.png)
+
 # Problemas
-Puede que Gmail no rederize o interprete bien CSS, por lo que puede que se tenga que re-modificar el código.
+Puede que Gmail no renderize o interprete bien CSS, por lo que puede que se tenga que re-modificar el código.
 
 # Legalidad
-Espero que esto no sea nada ilegal, lo hice con buenas intenciones. De tal forma que los mentores académicos puedan enviar correos a sus mentees similares a los correos de UTEC.
+Espero que esto no sea nada ilegal, lo hice con buenas intenciones. De tal forma que los mentores académicos puedan enviar correos a sus mentees similares a los correos de UTEC 😹.
+
