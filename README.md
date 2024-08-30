@@ -19,6 +19,7 @@ Debido a que Gmail soporta html, aquí están los pasos para que lo interprete:
 3. Ir a Gmail, presionar el botón de redactar y pegar en el cuerpo del correo lo que acabas de copiar. 
 4. Gmail debería de rendizarlo y listo. Solo bastaría incluir el destinatario al que quieres enviar el correo y colocar un asunto
 
+Este es un posibe ejemplo del flyer ya modificado:
 ![Este es un posible ejemplo del flyer ya modificado](ejemplo.png)
 
 # Problemas
